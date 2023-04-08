@@ -33,6 +33,7 @@ smile,
 
 ## Clothes
 Gothic-style long dress, deep V-neck,
+knit,
 
 ## References
 1. [Hair](https://danbooru.donmai.us/wiki_pages/tag_group%3Ahair_styles)
