@@ -36,3 +36,4 @@ Gothic-style long dress, deep V-neck,
 
 ## References
 1. [Hair](https://danbooru.donmai.us/wiki_pages/tag_group%3Ahair_styles)
+2. [Art prompts](https://artprompts.org/)
