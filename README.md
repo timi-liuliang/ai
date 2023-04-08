@@ -23,6 +23,8 @@ flipped hair,
 #### Long hair
 cornrows, dreadlocks, hime cut, nullet,
 
+#### Head hair over the body
+hair bikini, hair censor, hair in own mouth, hair over breasts, hair over one breast, hair over croth, hair over shoulder, hair scarf,
 
 ## Face
 
