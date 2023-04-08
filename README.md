@@ -1,6 +1,8 @@
 # Stable diffusiion prompt
 ## Quality
 best quality, extremely detailed figure, official art, extremely detailed cg, hyper realistic, background detailed, 3D,
+(8k, RAW photo, best quality, masterpiece:1.2), (realistic, photo-realistic:1.37), 
+(ultra high res, photon mapping, radiosity, physically-based rendering),
 
 ## Lighting
 beautiful lighting, Cyberpunk light, Cinematic light, Volumetic light,Sutdio light, Natural light, Top light, Raking light, Rim light, Edge light, back light, Morning light, Sun light, Golden hour light, 
