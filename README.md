@@ -10,7 +10,19 @@ Cold light, warm light, Dramatic light,Rembarandt light, reflection light, mappi
 --s 1000
 
 ## Hair
-Short hair, Long hair,
+### Length and Volume
+very short hair, shot hair, medium hair, long hair, very long hair, absurdly long hair, big hair, bald, bald girl,
+
+### Hair Styles
+#### Short hair
+bob cut, bowl cut, buzz cut, chonmage, crew cut, flattop, okappa, pixel cut, under cut,
+
+#### Medium hiar
+flipped hair,
+
+#### Long hair
+cornrows, dreadlocks, hime cut, nullet,
+
 
 ## Face
 
@@ -19,3 +31,6 @@ smile,
 
 ## Clothes
 Gothic-style long dress, deep V-neck,
+
+## References
+1. [Hair](https://danbooru.donmai.us/wiki_pages/tag_group%3Ahair_styles)
